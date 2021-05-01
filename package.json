@@ -8,6 +8,21 @@
     "type": "git",
     "url": "https://github.com/alker0/type-filter-clsx"
   },
+  "keywords": [
+    "css",
+    "classname",
+    "classnames",
+    "clsx",
+    "filter",
+    "omit",
+    "pick",
+    "ts",
+    "type",
+    "types",
+    "typescript",
+    "util",
+    "utility"
+  ],
   "main": "",
   "files": [
     "index.d.ts"
