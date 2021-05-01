@@ -1,9 +1,13 @@
 {
   "name": "@alker0/type-filter-clsx",
   "description": "Type declarations for filtering class name of clsx.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Fujita Hitoshi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alker0/type-filter-clsx"
+  },
   "main": "",
   "files": [
     "index.d.ts"
